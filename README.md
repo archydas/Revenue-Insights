@@ -1,5 +1,5 @@
 # Revenue-Insights
-Power BI Dashboard: Revenue Insights for Hospitality Industry
+## Power BI Dashboard: Revenue Insights for Hospitality Industry
 This Power BI dashboard provides a comprehensive analysis of revenue performance in the hospitality industry. It is designed to offer key insights into room occupancy, revenue trends, seasonal performance, and customer segmentation.
 ## Objective:
 The dashboard aims to provide clear and actionable insights into revenue performance, room bookings, occupancy rates, and seasonal trends within the hospitality sector.
