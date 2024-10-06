@@ -38,6 +38,9 @@ This dashboard offers critical revenue insights into the hospitality industry, e
 ## OVERVIEW
 ![revenue](https://github.com/user-attachments/assets/79c90145-6fe0-4fbd-b0f5-95783fcd40b2)
 
+![image](https://github.com/user-attachments/assets/6ad510f8-3307-43ab-a850-319fe4d7455b)
+
+
 
 
 
