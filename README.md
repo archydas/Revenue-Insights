@@ -35,10 +35,8 @@ Power BI Report File (.pbix): The Power BI file is available in this repository 
 ## Conclusion 
 This dashboard offers critical revenue insights into the hospitality industry, enabling hotel managers and decision-makers to track performance, optimize pricing, and target specific customer segments. It serves as a powerful tool for driving operational efficiency and increasing profitability.
 
-
-
-
-
+## OVERVIEW
+![revenue](https://github.com/user-attachments/assets/79c90145-6fe0-4fbd-b0f5-95783fcd40b2)
 
 
 
